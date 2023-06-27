@@ -1,2 +1,3 @@
 ### Hi there 👋
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.teminal.svg)
+![Metrics](/metrics.plugin.isocalendar.svg)
