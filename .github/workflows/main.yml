@@ -23,8 +23,8 @@ jobs:
           base: ""
           plugin_isocalendar: yes
       - uses: lowlighter/metrics@latest
-          with:
-            template: terminal
-            filename: metrics.terminal.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: header, metadata
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
